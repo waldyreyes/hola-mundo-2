@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2012\Projects\hola mundo\hola mundo\bin\Debug\hola mundo.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\hola mundo\hola mundo\bin\Debug\hola mundo.exe
+c:\users\dell\documents\visual studio 2012\Projects\hola mundo\hola mundo\bin\Debug\hola mundo.pdb
+c:\users\dell\documents\visual studio 2012\Projects\hola mundo\hola mundo\obj\Debug\hola mundo.exe
+c:\users\dell\documents\visual studio 2012\Projects\hola mundo\hola mundo\obj\Debug\hola mundo.pdb
